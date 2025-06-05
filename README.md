@@ -1,4 +1,4 @@
-###End-to-End Data Pipeline for NYC Taxi Trip Analysis Using Azure Databricks
+### End-to-End Data Pipeline for NYC Taxi Trip Analysis Using Azure Databricks
 
 ![img alt](https://github.com/vbhargava25/NYC_TAXI_DEP/blob/main/cf.png?raw=true)
 
